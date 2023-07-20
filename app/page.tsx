@@ -153,7 +153,7 @@ const PrayerTimes = () => {
               <div className="text-2xl">
                 <strong className="text-cyan-500 font-semibold">Isha </strong>
                 <p className="py-1"/>
-                <strong className="text-3xl text-gray-300">{formatTimeToAMPM(prayerTimes.Isha)}</strong>
+                <strong className="text-3xl text-gray-300">{formatTimeToAMPM(prayerTimes.Isha)}a</strong>
               </div>
 
 
